@@ -1,0 +1,5 @@
+sudo pip3 install adafruit-circuitpython-fingerprint pyfingerprint
+
+git clone https://github.com/adafruit/Adafruit_CircuitPython_Fingerprint.git
+
+git clone https://github.com/bastianraschke/pyfingerprint.git
